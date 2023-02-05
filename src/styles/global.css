@@ -9,7 +9,9 @@ body {
   align-items: start;
   margin-left: 5vw;
   font-family: 'Helvetica', sans-serif;
-  background-image:url(../img/image.jpg),;
+  background-image:url(../img/image.webp);
+  background-size: cover;
+ 
   background-repeat:no-repeat;
 }
 /* image {
