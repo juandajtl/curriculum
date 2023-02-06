@@ -1,8 +1,7 @@
-header{
+.header{
     display: flex;
-    text-align: right;
-    background-color: #000000;
     width:90%;
+    height: 10%;
     margin-top: 5vh;
     padding: 2vw;
   }
